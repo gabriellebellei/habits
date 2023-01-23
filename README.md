@@ -13,3 +13,5 @@
 ## project
 
 the habits project was created to help you control your daily activities.
+
+- visit online (https://gabriellemoreira.github.io/habits)
